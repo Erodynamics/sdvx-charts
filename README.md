@@ -1,3 +1,3 @@
-# sdvx-04-charts
-Public SDVX IV Charts
+# SDVX Charts
+Public SDVX Charts
 
